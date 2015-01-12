@@ -31,3 +31,4 @@ Progress
 
 
 ![Wikipedia Gnomonic](http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Gnomonic.png/600px-Gnomonic.png)
+![IPython Gnomonic](gnomonic.png)
