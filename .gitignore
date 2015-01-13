@@ -4,3 +4,7 @@ tex/InterpolatingDistributions.synctex.gz
 tex/InterpolatingDistributions.aux
 
 tex/InterpolatingDistributions.log
+
+.ipynb_checkpoints/ambient-fisher-gnomonic-interpolant-checkpoint.ipynb
+
+.ipynb_checkpoints/SphericalMDSTest-checkpoint.ipynb
