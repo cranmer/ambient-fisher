@@ -31,7 +31,7 @@ Progress
 
    * BarycentricCoordinates.ipynb - this is a simple example of using [scipy.spatial.Delaunay](http://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.spatial.Delaunay.html) to map from one simplex to another with barycentric coordinates
 
-   * ambient-fisher-gnomonic-interpolant.ipynb - demonstrates the full algorithm with actual distributions!
+   * [ambient-fisher-gnomonic-interpolant.ipynb](http://nbviewer.ipython.org/github/cranmer/ambient-fisher/blob/master/ambient-fisher-gnomonic-interpolant.ipynb) - demonstrates the full algorithm with actual distributions!
 
 
 
